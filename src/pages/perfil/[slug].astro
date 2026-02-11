@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import ProfileBanner from '../../components/ProfileBanner.vue';
+import ProfileContentBehance from '../../components/ProfileContentBehance.vue';
+import profilesData from '../../data/profiles.json';
+
+export function getStaticPaths() {
+  return profilesData.profiles.map((profile) => ({
+    params: { slug: profile.slug },
+    props: { profile },
+  }));
+}
+
+const { profile } = Astro.props;
+---
+
+<BaseLayout
+  title={`${profile.name} - ${profile.profession} | VitrinePro V8`}
+  description={profile.bio}
+>
+  <Header />
+
+  <main>
+    <ProfileBanner profile={profile} client:load />
+    <ProfileContentBehance profile={profile} client:load />
+  </main>
+
+  <Footer />
+</BaseLayout>

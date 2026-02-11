@@ -1,0 +1,475 @@
+{
+  "projects": [
+    {
+      "id": "app-financas-pessoais",
+      "authorSlug": "carlos-mendes",
+      "title": "App de Finanças Pessoais",
+      "subtitle": "Design completo de aplicativo mobile para gestão financeira intuitiva",
+      "description": "Design completo de aplicativo mobile para gestão financeira intuitiva.",
+      "status": "Concluído",
+      "year": "2024",
+      "coverImage": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&h=600&fit=crop",
+      "tags": ["Mobile", "Fintech", "UX/UI"],
+      "client": "FinanceApp Startup",
+      "duration": "3 meses",
+      "role": "Lead UX/UI Designer",
+      "overview": "Desafio de criar uma experiência de gestão financeira que fosse ao mesmo tempo poderosa e simples de usar. O objetivo era ajudar pessoas a tomarem controle de suas finanças sem se sentirem sobrecarregadas por dados.",
+      "challenge": "Apps de finanças costumam ser intimidantes - cheios de gráficos, números e funcionalidades que assustam usuários comuns. Como criar uma experiência que empodera sem intimidar?",
+      "solution": "Criamos uma interface progressiva que revela complexidade conforme necessário. Começamos com uma visão simples e clara do status financeiro, permitindo que usuários avancem para detalhes apenas quando desejarem.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=800&fit=crop",
+          "caption": "Dashboard principal - visão clara e imediata da saúde financeira"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&fit=crop",
+          "caption": "Categorização inteligente de despesas com insights visuais"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&h=800&fit=crop",
+          "caption": "Fluxo de adição de transação - rápido e sem fricção"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Dashboard Inteligente",
+          "description": "Visão geral instantânea com insights automáticos sobre padrões de gastos"
+        },
+        {
+          "title": "Categorização Automática",
+          "description": "Machine learning que aprende padrões e categoriza transações automaticamente"
+        },
+        {
+          "title": "Metas Financeiras",
+          "description": "Definição e acompanhamento visual de objetivos financeiros"
+        },
+        {
+          "title": "Alertas Inteligentes",
+          "description": "Notificações contextuais que ajudam a manter o controle sem serem invasivas"
+        }
+      ],
+      "results": {
+        "metrics": [
+          { "value": "92%", "label": "Taxa de engajamento diário" },
+          { "value": "4.8/5", "label": "Avaliação na App Store" },
+          { "value": "50K+", "label": "Usuários em 3 meses" }
+        ],
+        "testimonial": {
+          "text": "O design do Carlos transformou nossa visão em realidade. Ele entendeu perfeitamente o equilíbrio entre simplicidade e funcionalidade.",
+          "author": "João Silva, CEO FinanceApp"
+        }
+      },
+      "tools": ["Figma", "Principle", "Adobe Illustrator", "Miro"],
+      "process": [
+        "Pesquisa de usuários e análise competitiva",
+        "Definição de personas e jornadas",
+        "Wireframes e arquitetura de informação",
+        "Design visual e prototipagem",
+        "Testes de usabilidade iterativos",
+        "Handoff para desenvolvimento"
+      ]
+    },
+    {
+      "id": "redesign-portal-educacional",
+      "authorSlug": "carlos-mendes",
+      "title": "Redesign Portal Educacional",
+      "subtitle": "Renovação completa da UX/UI de plataforma de ensino online",
+      "description": "Renovação completa da UX/UI de plataforma de ensino online.",
+      "status": "Em andamento",
+      "year": "2024",
+      "coverImage": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=1200&h=600&fit=crop",
+      "tags": ["EdTech", "Web", "Redesign"],
+      "client": "EduOnline Platform",
+      "duration": "6 meses (em progresso)",
+      "role": "Senior UX/UI Designer",
+      "overview": "Modernização de portal educacional com 10 anos de história, mantendo familiaridade para usuários existentes enquanto atraímos nova geração de estudantes.",
+      "challenge": "Como renovar uma plataforma legada sem alienar 100 mil usuários ativos que estão acostumados com a interface atual?",
+      "solution": "Implementação gradual com testes A/B extensivos e migração opcional que permite usuários experimentarem a nova interface quando se sentirem confortáveis.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200&h=800&fit=crop",
+          "caption": "Nova homepage - design moderno mantendo elementos familiares"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&h=800&fit=crop",
+          "caption": "Interface de curso - foco em conteúdo e progresso visual"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Navegação Simplificada",
+          "description": "Reestruturação completa da arquitetura de informação"
+        },
+        {
+          "title": "Player de Vídeo Moderno",
+          "description": "Nova experiência de assistir aulas com recursos avançados"
+        },
+        {
+          "title": "Dashboard do Aluno",
+          "description": "Visão unificada de progresso, tarefas e conquistas"
+        }
+      ],
+      "tools": ["Figma", "Maze", "Hotjar", "Notion"],
+      "process": [
+        "Análise de métricas atuais e feedback de usuários",
+        "Workshops com stakeholders",
+        "Wireframes de baixa fidelidade",
+        "Testes de usabilidade com protótipos",
+        "Design system atualizado"
+      ]
+    },
+    {
+      "id": "projeto-justica-acessivel",
+      "authorSlug": "maria-silva",
+      "title": "Projeto Justiça Acessível",
+      "subtitle": "Consultoria jurídica gratuita para comunidades carentes",
+      "description": "Consultoria jurídica gratuita para comunidades carentes de São Paulo.",
+      "status": "Em andamento",
+      "year": "2024",
+      "coverImage": "https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?w=1200&h=600&fit=crop",
+      "tags": ["Pro Bono", "Acesso à Justiça", "Social"],
+      "client": "OAB São Paulo / Comunidades",
+      "duration": "12 meses (em progresso)",
+      "role": "Advogada Coordenadora",
+      "overview": "Projeto social que oferece consultoria jurídica gratuita e defesa em processos criminais para pessoas de baixa renda em comunidades periféricas de São Paulo.",
+      "challenge": "Milhões de brasileiros não têm acesso à justiça por falta de recursos. Como levar assistência jurídica qualificada para quem mais precisa?",
+      "solution": "Estruturamos um projeto com atendimento presencial mensal nas comunidades, triagem de casos, parcerias com universidades para estágio supervisionado e uso de tecnologia para acompanhamento processual.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1521791055366-0d553872125f?w=1200&h=800&fit=crop",
+          "caption": "Mutirão de atendimento jurídico na comunidade"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=800&fit=crop",
+          "caption": "Orientação jurídica individualizada"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Atendimento Mensal",
+          "description": "Mutirões regulares com equipe de advogados voluntários"
+        },
+        {
+          "title": "Acompanhamento Processual",
+          "description": "Sistema de acompanhamento digital dos processos em andamento"
+        },
+        {
+          "title": "Educação Jurídica",
+          "description": "Palestras sobre direitos fundamentais e prevenção"
+        }
+      ],
+      "results": {
+        "metrics": [
+          { "value": "500+", "label": "Pessoas atendidas" },
+          { "value": "120", "label": "Casos em andamento" },
+          { "value": "85%", "label": "Taxa de resolução" }
+        ]
+      },
+      "tools": ["Sistema PJE", "WhatsApp Business", "Google Drive"],
+      "process": [
+        "Mapeamento de comunidades e parceiros locais",
+        "Formação de equipe de voluntários",
+        "Criação de protocolos de atendimento",
+        "Implementação de sistema de triagem",
+        "Avaliação contínua de impacto"
+      ]
+    },
+    {
+      "id": "defesa-direitos-humanos",
+      "authorSlug": "maria-silva",
+      "title": "Defesa de Direitos Humanos",
+      "subtitle": "Atuação em casos de violação de garantias constitucionais",
+      "description": "Atuação em casos de violação de direitos fundamentais e garantias constitucionais.",
+      "status": "Concluído",
+      "year": "2023",
+      "coverImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop",
+      "tags": ["Direitos Humanos", "Habeas Corpus", "Constitucional"],
+      "client": "Diversos Clientes",
+      "duration": "2 anos",
+      "role": "Advogada de Defesa",
+      "overview": "Série de casos emblemáticos envolvendo defesa de direitos fundamentais, com foco em prisões ilegais, tortura e violações processuais.",
+      "challenge": "Sistemas de justiça às vezes falham em proteger os direitos mais básicos. Como garantir que as garantias constitucionais sejam respeitadas na prática?",
+      "solution": "Atuação estratégica utilizando todos os instrumentos processuais disponíveis: habeas corpus, revisão criminal, ações constitucionais e representações a órgãos de controle.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1589391886645-d51941baf7fb?w=1200&h=800&fit=crop",
+          "caption": "Audiência no Tribunal de Justiça"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Litígio Estratégico",
+          "description": "Casos escolhidos por potencial de criar precedentes importantes"
+        },
+        {
+          "title": "Advocacy Institucional",
+          "description": "Trabalho junto a Defensoria e Ministério Público"
+        }
+      ],
+      "results": {
+        "metrics": [
+          { "value": "32", "label": "Casos de sucesso" },
+          { "value": "15", "label": "Habeas Corpus concedidos" },
+          { "value": "8", "label": "Precedentes estabelecidos" }
+        ],
+        "testimonial": {
+          "text": "Dra. Maria foi incansável na defesa dos meus direitos. Sua dedicação e conhecimento técnico fizeram toda a diferença.",
+          "author": "Cliente anônimo"
+        }
+      },
+      "tools": ["PJE", "Jurisprudência", "Doutrina Especializada"],
+      "process": [
+        "Análise detalhada do caso e violações",
+        "Pesquisa jurisprudencial e doutrinária",
+        "Elaboração de peças técnicas",
+        "Atuação em todas as instâncias",
+        "Monitoramento e cumprimento de decisões"
+      ]
+    },
+    {
+      "id": "programa-coracao-saudavel",
+      "authorSlug": "joao-santos",
+      "title": "Programa Coração Saudável",
+      "subtitle": "Campanha de prevenção cardiovascular em escolas e empresas",
+      "description": "Campanha de prevenção cardiovascular em escolas e empresas do Rio de Janeiro.",
+      "status": "Em andamento",
+      "year": "2024",
+      "coverImage": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=600&fit=crop",
+      "tags": ["Prevenção", "Saúde Pública", "Educação"],
+      "client": "Secretaria Municipal de Saúde RJ",
+      "duration": "18 meses (em progresso)",
+      "role": "Coordenador Médico",
+      "overview": "Programa de prevenção primária de doenças cardiovasculares através de educação em saúde, rastreamento e mudança de comportamento em escolas públicas e empresas parceiras.",
+      "challenge": "Doenças cardiovasculares matam mais que qualquer outra causa, mas a maioria é prevenível. Como criar uma cultura de prevenção efetiva?",
+      "solution": "Programa multi-facetado combinando educação (palestras, workshops), rastreamento (medição de pressão, glicemia, colesterol) e acompanhamento contínuo com metas individualizadas.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&h=800&fit=crop",
+          "caption": "Palestra sobre prevenção cardiovascular em escola"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=800&fit=crop",
+          "caption": "Rastreamento e orientação individualizada"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=800&fit=crop",
+          "caption": "Grupo de exercícios orientados"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Educação em Saúde",
+          "description": "Palestras mensais sobre fatores de risco e prevenção"
+        },
+        {
+          "title": "Rastreamento Gratuito",
+          "description": "Medição de pressão, glicemia, colesterol e IMC"
+        },
+        {
+          "title": "Grupos de Apoio",
+          "description": "Encontros semanais para mudança de hábitos"
+        },
+        {
+          "title": "Acompanhamento Digital",
+          "description": "App para registro de atividades e metas"
+        }
+      ],
+      "results": {
+        "metrics": [
+          { "value": "5.000+", "label": "Pessoas impactadas" },
+          { "value": "85%", "label": "Melhorou pelo menos um fator de risco" },
+          { "value": "1.200", "label": "Participantes ativos nos grupos" }
+        ],
+        "testimonial": {
+          "text": "O programa me ajudou a entender meus riscos e fazer mudanças reais. Perdi 15kg e minha pressão normalizou!",
+          "author": "João Silva, Participante"
+        }
+      },
+      "tools": ["App Coração Saudável", "Equipamentos de Medição", "Material Educativo"],
+      "process": [
+        "Diagnóstico situacional e parcerias",
+        "Desenvolvimento de conteúdo educativo",
+        "Capacitação de equipe multidisciplinar",
+        "Implementação gradual em escolas/empresas",
+        "Avaliação de impacto e ajustes"
+      ]
+    },
+    {
+      "id": "pesquisa-novos-tratamentos",
+      "authorSlug": "joao-santos",
+      "title": "Pesquisa: Novos Tratamentos",
+      "subtitle": "Estudo clínico sobre terapias inovadoras para insuficiência cardíaca",
+      "description": "Estudo clínico sobre terapias inovadoras para insuficiência cardíaca.",
+      "status": "Concluído",
+      "year": "2023",
+      "coverImage": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=1200&h=600&fit=crop",
+      "tags": ["Pesquisa Clínica", "Insuficiência Cardíaca", "Inovação"],
+      "client": "Hospital Universitário / CNPq",
+      "duration": "24 meses",
+      "role": "Pesquisador Principal",
+      "overview": "Estudo clínico randomizado avaliando eficácia e segurança de nova terapia medicamentosa combinada para insuficiência cardíaca com fração de ejeção reduzida.",
+      "challenge": "Insuficiência cardíaca permanece com alta mortalidade apesar dos avanços. Novas terapias são necessárias urgentemente.",
+      "solution": "Conduzimos estudo duplo-cego comparando terapia padrão vs. protocolo inovador combinando novos fármacos em 200 pacientes por 18 meses.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=1200&h=800&fit=crop",
+          "caption": "Equipe de pesquisa analisando resultados"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&h=800&fit=crop",
+          "caption": "Monitoramento cardíaco dos participantes"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Desenho Rigoroso",
+          "description": "Estudo randomizado, duplo-cego, controlado por placebo"
+        },
+        {
+          "title": "Acompanhamento Intensivo",
+          "description": "Avaliações mensais com ecocardiograma e laboratório"
+        },
+        {
+          "title": "Comitê de Segurança",
+          "description": "Monitoramento independente de eventos adversos"
+        }
+      ],
+      "results": {
+        "metrics": [
+          { "value": "200", "label": "Pacientes incluídos" },
+          { "value": "35%", "label": "Redução de hospitalizações" },
+          { "value": "28%", "label": "Melhora na fração de ejeção" }
+        ],
+        "testimonial": {
+          "text": "Resultados promissores que podem mudar o tratamento da insuficiência cardíaca. Parabéns à equipe!",
+          "author": "Dr. Ricardo Alves, Cardiologista Externo"
+        }
+      },
+      "tools": ["REDCap", "SPSS", "Ecocardiografia", "Laboratório"],
+      "process": [
+        "Aprovação ética e registro do estudo",
+        "Recrutamento e randomização",
+        "Coleta de dados e monitoramento",
+        "Análise estatística",
+        "Publicação dos resultados"
+      ]
+    },
+    {
+      "id": "ecommerce-moderno",
+      "authorSlug": "ana-costa",
+      "title": "E-commerce Moderno",
+      "subtitle": "Plataforma completa com Next.js, TypeScript e Stripe",
+      "description": "Plataforma completa de comércio eletrônico com Next.js, TypeScript e Stripe.",
+      "status": "Concluído",
+      "year": "2024",
+      "coverImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=600&fit=crop",
+      "tags": ["E-commerce", "Next.js", "TypeScript"],
+      "client": "Startup de Moda",
+      "duration": "4 meses",
+      "role": "Tech Lead & Full Stack Developer",
+      "overview": "Desenvolvimento completo de plataforma e-commerce moderna com foco em performance, SEO e experiência de compra impecável.",
+      "challenge": "Cliente precisava de solução escalável que competisse com grandes marketplaces, mas com orçamento de startup.",
+      "solution": "Stack moderna com Next.js (SSR/SSG), TypeScript, Stripe para pagamentos, Vercel para deploy. Arquitetura modular e testável.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&fit=crop",
+          "caption": "Homepage com produtos em destaque"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&h=800&fit=crop",
+          "caption": "Página de produto com detalhes e reviews"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&h=800&fit=crop",
+          "caption": "Checkout otimizado em um passo"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Performance Excepcional",
+          "description": "Score 95+ no Lighthouse através de SSG e otimizações"
+        },
+        {
+          "title": "Pagamentos Seguros",
+          "description": "Integração completa com Stripe incluindo webhooks"
+        },
+        {
+          "title": "Admin Dashboard",
+          "description": "Painel completo para gestão de produtos e pedidos"
+        },
+        {
+          "title": "SEO Otimizado",
+          "description": "SSR para crawlers, meta tags dinâmicas, sitemap"
+        }
+      ],
+      "results": {
+        "metrics": [
+          { "value": "98", "label": "Lighthouse Score" },
+          { "value": "< 2s", "label": "Time to Interactive" },
+          { "value": "15K+", "label": "Vendas no primeiro mês" }
+        ],
+        "testimonial": {
+          "text": "Ana entregou além do esperado. O site é rápido, bonito e já estamos vendendo muito. Recomendo!",
+          "author": "Paula Mendes, CEO da Startup"
+        }
+      },
+      "tools": ["Next.js", "TypeScript", "Stripe", "Prisma", "PostgreSQL", "Vercel"],
+      "process": [
+        "Levantamento de requisitos e wireframes",
+        "Definição de arquitetura e stack",
+        "Desenvolvimento iterativo com deploys frequentes",
+        "Testes automatizados (Jest, Cypress)",
+        "Launch e monitoramento"
+      ]
+    },
+    {
+      "id": "dashboard-analytics",
+      "authorSlug": "ana-costa",
+      "title": "Dashboard Analytics",
+      "subtitle": "Sistema de análise de dados em tempo real",
+      "description": "Sistema de análise de dados em tempo real com React, D3.js e WebSockets.",
+      "status": "Em andamento",
+      "year": "2024",
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=600&fit=crop",
+      "tags": ["Data Visualization", "Real-time", "React"],
+      "client": "Fintech",
+      "duration": "6 meses (em progresso)",
+      "role": "Senior Frontend Developer",
+      "overview": "Dashboard avançado para visualização de dados financeiros em tempo real, com gráficos interativos, alertas e relatórios customizáveis.",
+      "challenge": "Processar e visualizar milhões de pontos de dados em tempo real sem comprometer performance ou experiência do usuário.",
+      "solution": "Arquitetura otimizada com virtualization, web workers para processamento pesado, WebSockets para updates em tempo real e D3.js para visualizações customizadas.",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=800&fit=crop",
+          "caption": "Dashboard principal com métricas em tempo real"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&h=800&fit=crop",
+          "caption": "Gráficos interativos e drill-down"
+        }
+      ],
+      "keyFeatures": [
+        {
+          "title": "Tempo Real",
+          "description": "Updates via WebSocket sem refresh necessário"
+        },
+        {
+          "title": "Visualizações Customizadas",
+          "description": "D3.js para gráficos complexos e interativos"
+        },
+        {
+          "title": "Performance",
+          "description": "Virtualization e memoization para grandes datasets"
+        }
+      ],
+      "tools": ["React", "TypeScript", "D3.js", "WebSocket", "Zustand", "Vite"],
+      "process": [
+        "Prototipagem de visualizações",
+        "Arquitetura de dados e state management",
+        "Implementação core com testes",
+        "Otimização de performance",
+        "Refinamento UX baseado em feedback"
+      ]
+    }
+  ]
+}

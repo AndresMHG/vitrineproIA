@@ -1,0 +1,396 @@
+{
+  "events": [
+    {
+      "id": "palestra-design-inclusivo",
+      "authorSlug": "carlos-mendes",
+      "title": "Palestra: Design Inclusivo",
+      "subtitle": "Como criar produtos digitais acessíveis para todos os usuários",
+      "description": "Como criar produtos digitais acessíveis para todos os usuários.",
+      "date": "2024-06-01",
+      "time": "14:00 - 16:00",
+      "location": "Interaction South America - Porto Alegre Convention Center",
+      "eventType": "Palestra",
+      "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&h=600&fit=crop",
+      "tags": ["Acessibilidade", "Design Inclusivo", "UX"],
+      "capacity": "300 pessoas",
+      "language": "Português",
+      "level": "Todos os níveis",
+      "overview": "Nesta palestra, exploramos como o design inclusivo não é apenas sobre conformidade com padrões, mas sobre criar experiências melhores para todos. Aprenda técnicas práticas para tornar seus produtos mais acessíveis desde o início do processo de design.",
+      "topics": [
+        "Princípios fundamentais de design inclusivo",
+        "Entendendo diferentes tipos de limitações (permanentes, temporárias, situacionais)",
+        "Ferramentas e técnicas para testar acessibilidade",
+        "Casos reais de sucesso e fracasso",
+        "Como evangelizar acessibilidade em sua organização"
+      ],
+      "aboutSpeaker": "Carlos Mendes é Designer UX/UI com mais de 8 anos de experiência criando produtos digitais. Apaixonado por acessibilidade, trabalha ativamente para tornar a web mais inclusiva. Certificado em WCAG 2.1 e membro ativo da comunidade de design acessível.",
+      "schedule": [
+        {
+          "time": "14:00 - 14:15",
+          "activity": "Abertura e Introdução"
+        },
+        {
+          "time": "14:15 - 14:45",
+          "activity": "Parte 1: Fundamentos de Design Inclusivo"
+        },
+        {
+          "time": "14:45 - 15:15",
+          "activity": "Parte 2: Técnicas Práticas e Ferramentas"
+        },
+        {
+          "time": "15:15 - 15:45",
+          "activity": "Parte 3: Casos de Estudo"
+        },
+        {
+          "time": "15:45 - 16:00",
+          "activity": "Q&A e Encerramento"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Como identificar barreiras de acessibilidade em seus designs",
+        "Técnicas de design que beneficiam todos os usuários",
+        "Ferramentas para testar e validar acessibilidade",
+        "Como construir um business case para acessibilidade",
+        "Recursos e comunidades para continuar aprendendo"
+      ],
+      "forWhom": "Designers, desenvolvedores, product managers e qualquer pessoa interessada em criar produtos digitais mais inclusivos e acessíveis.",
+      "materials": "Todos os participantes receberão acesso a slides, checklist de acessibilidade e recursos adicionais.",
+      "registration": {
+        "status": "Vagas disponíveis",
+        "price": "Incluído no ingresso da conferência",
+        "deadline": "2024-05-25"
+      }
+    },
+    {
+      "id": "palestra-futuro-direito-penal",
+      "authorSlug": "maria-silva",
+      "title": "Palestra: O Futuro do Direito Penal",
+      "subtitle": "Discussão sobre as tendências e desafios do direito penal no século XXI",
+      "description": "Discussão sobre as tendências e desafios do direito penal no século XXI.",
+      "date": "2024-04-15",
+      "time": "19:00 - 21:00",
+      "location": "OAB São Paulo - Auditório Principal",
+      "eventType": "Palestra",
+      "coverImage": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=1200&h=600&fit=crop",
+      "tags": ["Direito Penal", "Tendências", "Debate"],
+      "capacity": "200 pessoas",
+      "language": "Português",
+      "level": "Todos os níveis",
+      "overview": "Palestra sobre as transformações do direito penal na era digital, incluindo crimes cibernéticos, uso de inteligência artificial no sistema de justiça e novos paradigmas de responsabilização.",
+      "topics": [
+        "Crimes cibernéticos e desafios da prova digital",
+        "IA no sistema de justiça: oportunidades e riscos",
+        "Justiça restaurativa como alternativa à prisão",
+        "Reforma do sistema penitenciário brasileiro",
+        "Direito penal e direitos humanos no século XXI"
+      ],
+      "aboutSpeaker": "Dra. Maria Silva é advogada criminalista com mais de 15 anos de experiência. Especialista em direito penal e processual penal, atua em casos complexos e é referência em defesa de direitos fundamentais.",
+      "schedule": [
+        {
+          "time": "19:00 - 19:15",
+          "activity": "Credenciamento e boas-vindas"
+        },
+        {
+          "time": "19:15 - 20:00",
+          "activity": "Palestra principal"
+        },
+        {
+          "time": "20:00 - 20:45",
+          "activity": "Mesa redonda com especialistas"
+        },
+        {
+          "time": "20:45 - 21:00",
+          "activity": "Perguntas do público"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Entender os principais desafios do direito penal contemporâneo",
+        "Conhecer inovações tecnológicas aplicadas à justiça criminal",
+        "Debater alternativas ao sistema prisional tradicional",
+        "Refletir sobre o futuro da advocacia criminal"
+      ],
+      "forWhom": "Advogados, estudantes de direito, operadores do direito e público interessado em justiça criminal.",
+      "materials": "Certificado de participação e material de apoio em PDF.",
+      "registration": {
+        "status": "Vagas disponíveis",
+        "price": "Gratuito para membros OAB-SP",
+        "deadline": "2024-04-10"
+      }
+    },
+    {
+      "id": "workshop-estrategias-defesa",
+      "authorSlug": "maria-silva",
+      "title": "Workshop: Estratégias de Defesa",
+      "subtitle": "Técnicas avançadas de defesa criminal para advogados",
+      "description": "Técnicas avançadas de defesa criminal para advogados iniciantes.",
+      "date": "2024-05-20",
+      "time": "09:00 - 17:00",
+      "location": "Online - Plataforma Zoom",
+      "eventType": "Workshop",
+      "coverImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=600&fit=crop",
+      "tags": ["Workshop", "Defesa Criminal", "Prático"],
+      "capacity": "50 pessoas",
+      "language": "Português",
+      "level": "Intermediário",
+      "overview": "Workshop intensivo focado em técnicas práticas de defesa criminal, desde a análise inicial do caso até estratégias de júri. Inclui simulações e análise de casos reais.",
+      "topics": [
+        "Análise estratégica do caso e teoria da defesa",
+        "Técnicas de interrogatório e oitiva de testemunhas",
+        "Elaboração de teses defensivas criativas",
+        "Preparação e condução de júri popular",
+        "Gestão de mídia em casos de repercussão"
+      ],
+      "aboutSpeaker": "Dra. Maria Silva compartilhará sua experiência em mais de 500 casos, incluindo júris de grande complexidade.",
+      "schedule": [
+        {
+          "time": "09:00 - 10:30",
+          "activity": "Módulo 1: Análise Estratégica"
+        },
+        {
+          "time": "10:45 - 12:00",
+          "activity": "Módulo 2: Técnicas de Interrogatório"
+        },
+        {
+          "time": "13:00 - 15:00",
+          "activity": "Módulo 3: Simulação de Júri"
+        },
+        {
+          "time": "15:15 - 17:00",
+          "activity": "Módulo 4: Casos Práticos e Q&A"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Desenvolver estratégias de defesa eficazes",
+        "Dominar técnicas de interrogatório",
+        "Preparar clientes para depoimentos",
+        "Construir narrativas persuasivas para júri",
+        "Lidar com pressão da mídia"
+      ],
+      "forWhom": "Advogados criminalistas com pelo menos 1 ano de experiência.",
+      "materials": "Apostila completa, modelos de peças, acesso a gravação por 30 dias.",
+      "registration": {
+        "status": "Últimas vagas",
+        "price": "R$ 497,00 (parcelável)",
+        "deadline": "2024-05-15"
+      }
+    },
+    {
+      "id": "congresso-cardiologia",
+      "authorSlug": "joao-santos",
+      "title": "Congresso Brasileiro de Cardiologia",
+      "subtitle": "Apresentação de trabalhos sobre prevenção cardiovascular",
+      "description": "Apresentação de trabalhos científicos sobre prevenção cardiovascular.",
+      "date": "2024-06-10",
+      "time": "08:00 - 18:00",
+      "location": "Rio de Janeiro Convention Center",
+      "eventType": "Congresso",
+      "coverImage": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&h=600&fit=crop",
+      "tags": ["Cardiologia", "Congresso", "Científico"],
+      "capacity": "2000 pessoas",
+      "language": "Português",
+      "level": "Profissional",
+      "overview": "Maior congresso de cardiologia do Brasil, reunindo especialistas nacionais e internacionais para discutir os últimos avanços em prevenção, diagnóstico e tratamento de doenças cardiovasculares.",
+      "topics": [
+        "Novas diretrizes de prevenção cardiovascular",
+        "Avanços em intervenção coronariana",
+        "Insuficiência cardíaca: do diagnóstico ao tratamento",
+        "Cardiologia digital e telemedicina",
+        "Reabilitação cardíaca baseada em evidências"
+      ],
+      "aboutSpeaker": "Dr. João Santos apresentará os resultados do Programa Coração Saudável e discutirá estratégias de prevenção primária em larga escala.",
+      "schedule": [
+        {
+          "time": "08:00 - 09:00",
+          "activity": "Abertura e Palestra Magna"
+        },
+        {
+          "time": "09:00 - 12:00",
+          "activity": "Sessões Científicas Paralelas"
+        },
+        {
+          "time": "13:30 - 15:30",
+          "activity": "Apresentação de Pôsteres"
+        },
+        {
+          "time": "15:30 - 18:00",
+          "activity": "Workshops Práticos"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Últimas evidências em prevenção cardiovascular",
+        "Técnicas inovadoras de diagnóstico",
+        "Protocolos de tratamento atualizados",
+        "Networking com líderes da área"
+      ],
+      "forWhom": "Cardiologistas, clínicos gerais, residentes de cardiologia e profissionais de saúde cardiovascular.",
+      "materials": "Certificado, anais do congresso, acesso às apresentações.",
+      "registration": {
+        "status": "Inscrições abertas",
+        "price": "R$ 1.200,00 (profissionais) / R$ 600,00 (residentes)",
+        "deadline": "2024-06-01"
+      }
+    },
+    {
+      "id": "live-duvidas-coracao",
+      "authorSlug": "joao-santos",
+      "title": "Live: Dúvidas sobre o Coração",
+      "subtitle": "Sessão de perguntas e respostas sobre saúde cardiovascular",
+      "description": "Sessão de perguntas e respostas sobre saúde cardiovascular.",
+      "date": "2024-04-25",
+      "time": "20:00 - 21:30",
+      "location": "Instagram Live @drjoaosantos",
+      "eventType": "Live",
+      "coverImage": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=600&fit=crop",
+      "tags": ["Live", "Educação em Saúde", "Q&A"],
+      "capacity": "Ilimitado",
+      "language": "Português",
+      "level": "Público geral",
+      "overview": "Live interativa respondendo dúvidas do público sobre saúde do coração, prevenção de doenças cardiovasculares e mitos sobre cardiologia.",
+      "topics": [
+        "Quando procurar um cardiologista?",
+        "Interpretando exames cardiológicos",
+        "Alimentação e saúde do coração",
+        "Exercícios seguros para cardiopatas",
+        "Medicamentos cardiovasculares: dúvidas comuns"
+      ],
+      "aboutSpeaker": "Dr. João Santos é cardiologista com paixão por educação em saúde. Realiza lives mensais para democratizar informações sobre o coração.",
+      "schedule": [
+        {
+          "time": "20:00 - 20:10",
+          "activity": "Abertura e tema do dia"
+        },
+        {
+          "time": "20:10 - 21:00",
+          "activity": "Perguntas e respostas ao vivo"
+        },
+        {
+          "time": "21:00 - 21:30",
+          "activity": "Dicas rápidas e encerramento"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Respostas diretas para suas dúvidas sobre o coração",
+        "Desmistificar informações incorretas",
+        "Dicas práticas de prevenção",
+        "Quando buscar ajuda médica"
+      ],
+      "forWhom": "Público geral interessado em saúde cardiovascular.",
+      "materials": "Gravação disponível no IGTV por 48h.",
+      "registration": {
+        "status": "Participação gratuita",
+        "price": "Gratuito",
+        "deadline": "Sem necessidade de inscrição"
+      }
+    },
+    {
+      "id": "workshop-react-avancado",
+      "authorSlug": "ana-costa",
+      "title": "Workshop: React Avançado",
+      "subtitle": "Técnicas avançadas incluindo hooks customizados e performance",
+      "description": "Técnicas avançadas de React incluindo hooks customizados, context e performance.",
+      "date": "2024-05-15",
+      "time": "09:00 - 17:00",
+      "location": "DevMinas Conference - Belo Horizonte",
+      "eventType": "Workshop",
+      "coverImage": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=600&fit=crop",
+      "tags": ["React", "JavaScript", "Workshop"],
+      "capacity": "40 pessoas",
+      "language": "Português",
+      "level": "Avançado",
+      "overview": "Workshop hands-on focado em técnicas avançadas de React para criar aplicações performáticas e manuteníveis. Inclui exercícios práticos e code review ao vivo.",
+      "topics": [
+        "Custom Hooks: padrões e antipadrões",
+        "Performance: memoization, virtualization, lazy loading",
+        "Context API e state management escalável",
+        "Patterns avançados: compound components, render props",
+        "Testing: estratégias para componentes complexos"
+      ],
+      "aboutSpeaker": "Ana Costa é desenvolvedora full stack com 8 anos de experiência. Contribuidora open source e palestrante regular em eventos de tecnologia.",
+      "schedule": [
+        {
+          "time": "09:00 - 10:30",
+          "activity": "Módulo 1: Custom Hooks Avançados"
+        },
+        {
+          "time": "10:45 - 12:15",
+          "activity": "Módulo 2: Otimização de Performance"
+        },
+        {
+          "time": "13:30 - 15:00",
+          "activity": "Módulo 3: State Management Patterns"
+        },
+        {
+          "time": "15:15 - 17:00",
+          "activity": "Módulo 4: Projeto Prático"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Criar hooks customizados reutilizáveis e testáveis",
+        "Identificar e resolver problemas de performance",
+        "Implementar state management sem Redux",
+        "Aplicar patterns avançados em projetos reais",
+        "Estratégias de teste para código complexo"
+      ],
+      "forWhom": "Desenvolvedores React com pelo menos 1 ano de experiência prática.",
+      "materials": "Código de todos os exercícios, slides, checklist de performance, acesso ao repositório.",
+      "registration": {
+        "status": "Inscrições abertas",
+        "price": "R$ 599,00 (incluso no ingresso da conferência)",
+        "deadline": "2024-05-10"
+      }
+    },
+    {
+      "id": "tech-talk-full-stack",
+      "authorSlug": "ana-costa",
+      "title": "Tech Talk: Full Stack Development",
+      "subtitle": "Como se tornar um desenvolvedor full stack completo em 2024",
+      "description": "Como se tornar um desenvolvedor full stack completo em 2024.",
+      "date": "2024-04-20",
+      "time": "18:00 - 19:30",
+      "location": "Online - YouTube Live",
+      "eventType": "Tech Talk",
+      "coverImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=600&fit=crop",
+      "tags": ["Full Stack", "Carreira", "Tech Talk"],
+      "capacity": "Ilimitado",
+      "language": "Português",
+      "level": "Todos os níveis",
+      "overview": "Palestra sobre a jornada para se tornar desenvolvedor full stack, incluindo stack tecnológica, soft skills, portfólio e primeiras oportunidades no mercado.",
+      "topics": [
+        "O que realmente é ser full stack em 2024",
+        "Stack tecnológica: o que aprender primeiro",
+        "Frontend vs Backend: por onde começar?",
+        "Construindo um portfólio que chama atenção",
+        "Conseguindo a primeira oportunidade"
+      ],
+      "aboutSpeaker": "Ana Costa compartilha sua trajetória de júnior a senior full stack, com dicas práticas baseadas em experiência real.",
+      "schedule": [
+        {
+          "time": "18:00 - 18:40",
+          "activity": "Palestra principal"
+        },
+        {
+          "time": "18:40 - 19:00",
+          "activity": "Dicas práticas e roadmap"
+        },
+        {
+          "time": "19:00 - 19:30",
+          "activity": "Perguntas do chat"
+        }
+      ],
+      "whatYouWillLearn": [
+        "Roadmap claro para se tornar full stack",
+        "Quais tecnologias priorizar",
+        "Como construir projetos para o portfólio",
+        "Dicas para entrevistas técnicas",
+        "Erros comuns a evitar"
+      ],
+      "forWhom": "Iniciantes em programação, desenvolvedores júnior e pessoas em transição de carreira para tech.",
+      "materials": "Slides da apresentação, roadmap em PDF, lista de recursos para estudo.",
+      "registration": {
+        "status": "Participação gratuita",
+        "price": "Gratuito",
+        "deadline": "Sem necessidade de inscrição - acesse o YouTube"
+      }
+    }
+  ]
+}

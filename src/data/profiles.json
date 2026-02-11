@@ -1,0 +1,283 @@
+{
+  "profiles": [
+    {
+      "slug": "maria-silva",
+      "name": "Dra. Maria Silva",
+      "profession": "Advogada Criminalista",
+      "city": "São Paulo, SP",
+      "email": "maria.silva@exemplo.com",
+      "phone": "+55 11 98765-4321",
+      "bio": "Advogada especializada em direito criminal com mais de 15 anos de experiência. Defendo os direitos dos meus clientes com dedicação e ética profissional.",
+      "banner": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=300&fit=crop",
+      "avatar": "MS",
+      "social": {
+        "linkedin": "https://linkedin.com/in/maria-silva",
+        "twitter": "https://twitter.com/mariasilva",
+        "instagram": "https://instagram.com/dramariasilva"
+      },
+      "articles": [
+        {
+          "id": 1,
+          "title": "Direitos do Réu no Processo Penal",
+          "description": "Análise completa sobre os direitos fundamentais do réu durante todo o processo penal brasileiro.",
+          "date": "2024-01-15",
+          "readTime": "8 min"
+        },
+        {
+          "id": 2,
+          "title": "Novidades da Lei Anticrime",
+          "description": "Principais mudanças trazidas pela Lei 13.964/2019 e seus impactos na prática jurídica.",
+          "date": "2024-02-20",
+          "readTime": "12 min"
+        },
+        {
+          "id": 3,
+          "title": "Legítima Defesa: Aspectos Jurídicos",
+          "description": "Entenda os requisitos legais para caracterização da legítima defesa no ordenamento jurídico.",
+          "date": "2024-03-10",
+          "readTime": "10 min"
+        }
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "title": "Projeto Justiça Acessível",
+          "description": "Consultoria jurídica gratuita para comunidades carentes de São Paulo.",
+          "status": "Em andamento",
+          "year": "2024"
+        },
+        {
+          "id": 2,
+          "title": "Defesa de Direitos Humanos",
+          "description": "Atuação em casos de violação de direitos fundamentais e garantias constitucionais.",
+          "status": "Concluído",
+          "year": "2023"
+        }
+      ],
+      "events": [
+        {
+          "id": 1,
+          "title": "Palestra: O Futuro do Direito Penal",
+          "description": "Discussão sobre as tendências e desafios do direito penal no século XXI.",
+          "date": "2024-04-15",
+          "location": "OAB São Paulo"
+        },
+        {
+          "id": 2,
+          "title": "Workshop: Estratégias de Defesa",
+          "description": "Técnicas avançadas de defesa criminal para advogados iniciantes.",
+          "date": "2024-05-20",
+          "location": "Online"
+        }
+      ]
+    },
+    {
+      "slug": "joao-santos",
+      "name": "Dr. João Santos",
+      "profession": "Médico Cardiologista",
+      "city": "Rio de Janeiro, RJ",
+      "email": "joao.santos@exemplo.com",
+      "phone": "+55 21 99876-5432",
+      "bio": "Cardiologista com expertise em prevenção e tratamento de doenças cardiovasculares. Dedicado a salvar vidas através da medicina baseada em evidências.",
+      "banner": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=300&fit=crop",
+      "avatar": "JS",
+      "social": {
+        "linkedin": "https://linkedin.com/in/joao-santos",
+        "instagram": "https://instagram.com/drjoaosantos"
+      },
+      "articles": [
+        {
+          "id": 1,
+          "title": "Prevenção de Doenças Cardiovasculares",
+          "description": "Guia completo sobre hábitos saudáveis para manter o coração forte e prevenir infartos.",
+          "date": "2024-01-20",
+          "readTime": "10 min"
+        },
+        {
+          "id": 2,
+          "title": "Hipertensão: O que você precisa saber",
+          "description": "Tudo sobre diagnóstico, tratamento e controle da pressão arterial elevada.",
+          "date": "2024-02-15",
+          "readTime": "15 min"
+        },
+        {
+          "id": 3,
+          "title": "Atividade Física e Saúde Cardíaca",
+          "description": "Como exercícios regulares podem transformar a saúde do seu coração.",
+          "date": "2024-03-05",
+          "readTime": "8 min"
+        }
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "title": "Programa Coração Saudável",
+          "description": "Campanha de prevenção cardiovascular em escolas e empresas do Rio de Janeiro.",
+          "status": "Em andamento",
+          "year": "2024"
+        },
+        {
+          "id": 2,
+          "title": "Pesquisa: Novos Tratamentos",
+          "description": "Estudo clínico sobre terapias inovadoras para insuficiência cardíaca.",
+          "status": "Concluído",
+          "year": "2023"
+        }
+      ],
+      "events": [
+        {
+          "id": 1,
+          "title": "Congresso Brasileiro de Cardiologia",
+          "description": "Apresentação de trabalhos científicos sobre prevenção cardiovascular.",
+          "date": "2024-06-10",
+          "location": "Rio de Janeiro Convention Center"
+        },
+        {
+          "id": 2,
+          "title": "Live: Dúvidas sobre o Coração",
+          "description": "Sessão de perguntas e respostas sobre saúde cardiovascular.",
+          "date": "2024-04-25",
+          "location": "Instagram Live"
+        }
+      ]
+    },
+    {
+      "slug": "ana-costa",
+      "name": "Ana Costa",
+      "profession": "Desenvolvedora Full Stack",
+      "city": "Belo Horizonte, MG",
+      "email": "ana.costa@exemplo.com",
+      "phone": "+55 31 98765-1234",
+      "bio": "Desenvolvedora apaixonada por criar soluções web modernas e escaláveis. Especialista em React, Node.js e arquitetura de software.",
+      "banner": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&h=300&fit=crop",
+      "avatar": "AC",
+      "social": {
+        "linkedin": "https://linkedin.com/in/ana-costa",
+        "github": "https://github.com/anacosta",
+        "twitter": "https://twitter.com/anacosta_dev"
+      },
+      "articles": [
+        {
+          "id": 1,
+          "title": "Arquitetura Limpa em React",
+          "description": "Como estruturar aplicações React de forma escalável e manutenível usando princípios SOLID.",
+          "date": "2024-01-10",
+          "readTime": "12 min"
+        },
+        {
+          "id": 2,
+          "title": "TypeScript: Guia Definitivo",
+          "description": "Tudo que você precisa saber para dominar TypeScript e escrever código type-safe.",
+          "date": "2024-02-05",
+          "readTime": "20 min"
+        },
+        {
+          "id": 3,
+          "title": "Performance em Aplicações Web",
+          "description": "Técnicas avançadas de otimização para criar apps rápidas e responsivas.",
+          "date": "2024-03-01",
+          "readTime": "15 min"
+        }
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "title": "E-commerce Moderno",
+          "description": "Plataforma completa de comércio eletrônico com Next.js, TypeScript e Stripe.",
+          "status": "Concluído",
+          "year": "2024",
+          "link": "https://github.com/anacosta/ecommerce"
+        },
+        {
+          "id": 2,
+          "title": "Dashboard Analytics",
+          "description": "Sistema de análise de dados em tempo real com React, D3.js e WebSockets.",
+          "status": "Em andamento",
+          "year": "2024",
+          "link": "https://github.com/anacosta/dashboard"
+        },
+        {
+          "id": 3,
+          "title": "API RESTful Node.js",
+          "description": "API escalável com arquitetura limpa, testes automatizados e documentação completa.",
+          "status": "Concluído",
+          "year": "2023",
+          "link": "https://github.com/anacosta/api-nodejs"
+        }
+      ],
+      "events": [
+        {
+          "id": 1,
+          "title": "Workshop: React Avançado",
+          "description": "Técnicas avançadas de React incluindo hooks customizados, context e performance.",
+          "date": "2024-05-15",
+          "location": "DevMinas Conference"
+        },
+        {
+          "id": 2,
+          "title": "Tech Talk: Full Stack Development",
+          "description": "Como se tornar um desenvolvedor full stack completo em 2024.",
+          "date": "2024-04-20",
+          "location": "Online - YouTube"
+        }
+      ]
+    },
+    {
+      "slug": "carlos-mendes",
+      "name": "Carlos Mendes",
+      "profession": "Designer UX/UI",
+      "city": "Porto Alegre, RS",
+      "email": "carlos.mendes@exemplo.com",
+      "phone": "+55 51 99123-4567",
+      "bio": "Designer focado em criar experiências digitais intuitivas e acessíveis. Transformo problemas complexos em interfaces simples e elegantes.",
+      "banner": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&h=300&fit=crop",
+      "avatar": "CM",
+      "social": {
+        "linkedin": "https://linkedin.com/in/carlos-mendes",
+        "behance": "https://behance.net/carlosmendes",
+        "dribbble": "https://dribbble.com/carlosmendes"
+      },
+      "articles": [
+        {
+          "id": 1,
+          "title": "Princípios de Design System",
+          "description": "Como criar e manter design systems consistentes e escaláveis.",
+          "date": "2024-01-25",
+          "readTime": "10 min"
+        },
+        {
+          "id": 2,
+          "title": "UX Writing: A Arte das Palavras",
+          "description": "Como microtextos podem melhorar drasticamente a experiência do usuário.",
+          "date": "2024-02-18",
+          "readTime": "8 min"
+        }
+      ],
+      "projects": [
+        {
+          "id": 1,
+          "title": "App de Finanças Pessoais",
+          "description": "Design completo de aplicativo mobile para gestão financeira intuitiva.",
+          "status": "Concluído",
+          "year": "2024"
+        },
+        {
+          "id": 2,
+          "title": "Redesign Portal Educacional",
+          "description": "Renovação completa da UX/UI de plataforma de ensino online.",
+          "status": "Em andamento",
+          "year": "2024"
+        }
+      ],
+      "events": [
+        {
+          "id": 1,
+          "title": "Palestra: Design Inclusivo",
+          "description": "Como criar produtos digitais acessíveis para todos os usuários.",
+          "date": "2024-06-01",
+          "location": "Interaction South America"
+        }
+      ]
+    }
+  ]
+}

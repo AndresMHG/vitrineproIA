@@ -1,0 +1,262 @@
+{
+  "articles": [
+    {
+      "id": "principios-design-system",
+      "authorSlug": "carlos-mendes",
+      "title": "Princípios de Design System",
+      "subtitle": "Como criar e manter design systems consistentes e escaláveis",
+      "description": "Como criar e manter design systems consistentes e escaláveis.",
+      "date": "2024-01-25",
+      "readTime": "10 min",
+      "coverImage": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1200&h=600&fit=crop",
+      "tags": ["Design System", "UX/UI", "Produto"],
+      "content": {
+        "introduction": "Um Design System bem estruturado é a espinha dorsal de qualquer produto digital escalável. Neste artigo, exploraremos os princípios fundamentais para criar sistemas de design que resistem ao teste do tempo.",
+        "sections": [
+          {
+            "title": "O Que é um Design System?",
+            "text": "Um Design System é muito mais do que uma biblioteca de componentes. É uma linguagem visual compartilhada que une produto, marca e código através de um conjunto claro de padrões, componentes e diretrizes.\n\nPense nele como um kit de LEGO: blocos fundamentais que podem ser combinados de infinitas maneiras para criar experiências consistentes e eficientes.",
+            "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Princípios Fundamentais",
+            "text": "**1. Consistência acima de tudo**\nA consistência cria familiaridade. Usuários não deveriam precisar reaprender como usar seu produto em cada tela.\n\n**2. Acessibilidade como padrão**\nContraste, tamanho de fonte, estados de foco - tudo deve seguir as diretrizes WCAG desde o início.\n\n**3. Flexibilidade com estrutura**\nComponentes devem ser flexíveis o suficiente para diferentes contextos, mas estruturados o bastante para manter a identidade visual.\n\n**4. Documentação viva**\nSeu design system só é útil se as pessoas souberem como usá-lo. Documentação clara e exemplos práticos são essenciais.",
+            "image": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Anatomia de um Design System",
+            "text": "Um design system robusto contém:\n\n**Tokens de Design**\nCores, tipografia, espaçamento, elevação - todas as decisões visuais fundamentais codificadas.\n\n**Componentes**\nBotões, inputs, cards, modais - blocos de construção reutilizáveis.\n\n**Padrões**\nComo combinar componentes para resolver problemas específicos (formulários, navegação, etc).\n\n**Diretrizes**\nQuando usar cada componente, melhores práticas, casos de uso.",
+            "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Implementação na Prática",
+            "text": "Comece pequeno. Não tente criar um design system completo do zero.\n\n**Passo 1: Audite o existente**\nCatalogueuse todos os componentes e padrões que já existem no seu produto.\n\n**Passo 2: Consolide**\nIdentifique duplicações e inconsistências. Normalize.\n\n**Passo 3: Documente**\nCrie documentação clara com exemplos de código e casos de uso.\n\n**Passo 4: Itere**\nUm design system nunca está \"pronto\". Ele evolui com seu produto."
+          }
+        ],
+        "conclusion": "Design Systems são investimentos de longo prazo que pagam dividendos em velocidade de desenvolvimento, consistência de experiência e qualidade de produto. Comece hoje, comece pequeno, mas comece.",
+        "callToAction": "Quer aprender mais sobre Design Systems? Confira meu workshop completo sobre o tema."
+      }
+    },
+    {
+      "id": "ux-writing-arte-palavras",
+      "authorSlug": "carlos-mendes",
+      "title": "UX Writing: A Arte das Palavras",
+      "subtitle": "Como microtextos podem melhorar drasticamente a experiência do usuário",
+      "description": "Como microtextos podem melhorar drasticamente a experiência do usuário.",
+      "date": "2024-02-18",
+      "readTime": "8 min",
+      "coverImage": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&h=600&fit=crop",
+      "tags": ["UX Writing", "Conteúdo", "Experiência"],
+      "content": {
+        "introduction": "As palavras certas no momento certo podem transformar uma interface confusa em uma experiência deliciosa. UX Writing é a arte de guiar usuários com clareza, empatia e personalidade.",
+        "sections": [
+          {
+            "title": "Por Que Palavras Importam",
+            "text": "Em interfaces digitais, cada palavra conta. Um botão que diz 'Enviar' vs 'Publicar agora' cria expectativas completamente diferentes.\n\nUX Writing não é marketing. Não é copywriting. É design através de palavras - criar experiências claras, úteis e humanas.",
+            "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Princípios de UX Writing",
+            "text": "**Clareza antes de criatividade**\nSer inteligente é ótimo, mas ser claro é essencial. Usuários não deveriam precisar decifrar suas palavras.\n\n**Consistência de voz**\nMantenha o mesmo tom em toda a jornada. Formal no cadastro mas casual no dashboard cria dissonância.\n\n**Empatia acima de tudo**\nEntenda o estado emocional do usuário. Erros precisam de compreensão, não de jargão técnico.",
+            "image": "https://images.unsplash.com/photo-1542744095-291d1f67b221?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "Bom UX Writing é invisível - usuários simplesmente sabem o que fazer. Invista tempo nas palavras tanto quanto nos pixels.",
+        "callToAction": "Quer dominar UX Writing? Entre em contato para consultoria personalizada."
+      }
+    },
+    {
+      "id": "direitos-reu-processo-penal",
+      "authorSlug": "maria-silva",
+      "title": "Direitos do Réu no Processo Penal",
+      "subtitle": "Análise completa sobre os direitos fundamentais durante o processo penal",
+      "description": "Análise completa sobre os direitos fundamentais do réu durante todo o processo penal brasileiro.",
+      "date": "2024-01-15",
+      "readTime": "8 min",
+      "coverImage": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&h=600&fit=crop",
+      "tags": ["Direito Penal", "Garantias Constitucionais", "Processo"],
+      "content": {
+        "introduction": "O processo penal brasileiro é pautado por garantias constitucionais fundamentais que protegem os direitos do réu. Compreender esses direitos é essencial tanto para advogados quanto para cidadãos.",
+        "sections": [
+          {
+            "title": "Presunção de Inocência",
+            "text": "A Constituição Federal estabelece em seu artigo 5º, inciso LVII, que 'ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória'.\n\nEsse princípio fundamental significa que o ônus da prova cabe à acusação. O réu não precisa provar sua inocência - é o Estado que deve provar a culpa além de qualquer dúvida razoável.\n\n**Implicações práticas:**\n- Tratamento como inocente durante todo o processo\n- Direito de permanecer em silêncio\n- Vedação de execução antecipada da pena",
+            "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Direito ao Contraditório e Ampla Defesa",
+            "text": "**Contraditório** significa que toda acusação deve permitir resposta. Cada prova apresentada pela acusação pode ser contestada pela defesa.\n\n**Ampla Defesa** garante ao réu:\n- Defesa técnica (advogado)\n- Defesa pessoal (direito de falar)\n- Acesso completo aos autos\n- Produção de provas\n- Recurso contra decisões",
+            "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Direito ao Silêncio",
+            "text": "O réu tem o direito de permanecer em silêncio sem que isso seja interpretado contra ele. Não é obrigado a produzir prova contra si mesmo.\n\nEsse direito existe em todos os momentos:\n- No inquérito policial\n- Durante interrogatório judicial\n- Em audiências\n- Mesmo após condenação",
+            "image": "https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "O conhecimento dos direitos do réu é fundamental para garantir um processo justo. A defesa técnica qualificada é essencial para assegurar que essas garantias sejam efetivamente respeitadas.",
+        "callToAction": "Precisa de orientação jurídica? Entre em contato para uma consulta especializada em direito criminal."
+      }
+    },
+    {
+      "id": "lei-anticrime-mudancas",
+      "authorSlug": "maria-silva",
+      "title": "Novidades da Lei Anticrime",
+      "subtitle": "Principais mudanças trazidas pela Lei 13.964/2019",
+      "description": "Principais mudanças trazidas pela Lei 13.964/2019 e seus impactos na prática jurídica.",
+      "date": "2024-02-20",
+      "readTime": "12 min",
+      "coverImage": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&h=600&fit=crop",
+      "tags": ["Legislação", "Reforma Penal", "Atualização"],
+      "content": {
+        "introduction": "A Lei 13.964/2019, conhecida como 'Pacote Anticrime', trouxe mudanças significativas ao processo penal brasileiro. Este artigo analisa as principais alterações e seus impactos práticos.",
+        "sections": [
+          {
+            "title": "Mudanças na Prisão Preventiva",
+            "text": "A lei estabeleceu novos requisitos e prazos para a prisão preventiva, incluindo:\n\n**Revisão periódica obrigatória** a cada 90 dias\n**Fundamentação mais rigorosa** para decretação\n**Novas hipóteses** de cabimento e vedação",
+            "image": "https://images.unsplash.com/photo-1589391886645-d51941baf7fb?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Acordo de Não Persecução Penal",
+            "text": "Criação do instituto do acordo de não persecução penal (ANPP), permitindo que o Ministério Público proponha acordo ao investigado antes de oferecer denúncia.\n\n**Benefícios:**\n- Evita processo criminal\n- Reduz tempo de resolução\n- Desafoga o judiciário\n- Permite reparação do dano",
+            "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "As mudanças trazidas pela Lei Anticrime representam avanços e desafios. A aplicação prática dessas normas ainda está em construção pela jurisprudência.",
+        "callToAction": "Quer entender como essas mudanças afetam seu caso? Agende uma consulta."
+      }
+    },
+    {
+      "id": "prevencao-doencas-cardiovasculares",
+      "authorSlug": "joao-santos",
+      "title": "Prevenção de Doenças Cardiovasculares",
+      "subtitle": "Guia completo sobre hábitos saudáveis para o coração",
+      "description": "Guia completo sobre hábitos saudáveis para manter o coração forte e prevenir infartos.",
+      "date": "2024-01-20",
+      "readTime": "10 min",
+      "coverImage": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=600&fit=crop",
+      "tags": ["Cardiologia", "Prevenção", "Saúde do Coração"],
+      "content": {
+        "introduction": "As doenças cardiovasculares são a principal causa de morte no mundo, mas a maioria pode ser prevenida com mudanças no estilo de vida. Vamos explorar as estratégias mais eficazes baseadas em evidências científicas.",
+        "sections": [
+          {
+            "title": "Os Cinco Pilares da Saúde Cardiovascular",
+            "text": "A American Heart Association define cinco comportamentos-chave para um coração saudável:\n\n**1. Alimentação Saudável**\nDieta rica em frutas, vegetais, grãos integrais e proteínas magras. Redução de sódio, açúcares e gorduras trans.\n\n**2. Atividade Física Regular**\nPelo menos 150 minutos de exercício moderado por semana.\n\n**3. Controle do Peso**\nManter IMC entre 18.5 e 24.9.\n\n**4. Não Fumar**\nO tabagismo é um dos principais fatores de risco modificáveis.\n\n**5. Gerenciamento do Estresse**\nEstresse crônico afeta negativamente o coração.",
+            "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Alimentação para o Coração",
+            "text": "**Alimentos que protegem o coração:**\n- Peixes ricos em ômega-3 (salmão, sardinha)\n- Nozes e castanhas\n- Azeite de oliva extra virgem\n- Frutas vermelhas\n- Vegetais de folhas verdes\n- Aveia e grãos integrais\n\n**O que evitar:**\n- Gorduras trans e saturadas em excesso\n- Excesso de sal (máximo 5g/dia)\n- Açúcares adicionados\n- Alimentos ultraprocessados",
+            "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Exercícios e o Coração",
+            "text": "O exercício físico é um dos mais poderosos 'medicamentos' para o coração.\n\n**Benefícios comprovados:**\n- Reduz pressão arterial\n- Melhora perfil de colesterol\n- Controla glicemia\n- Fortalece o músculo cardíaco\n- Reduz inflamação sistêmica\n\n**Como começar:**\nInicie devagar e aumente gradualmente. Consulte um médico antes de iniciar exercícios intensos, especialmente após 40 anos.",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "A prevenção cardiovascular não é complexa, mas requer consistência. Pequenas mudanças diárias acumulam grandes benefícios ao longo do tempo. Nunca é tarde para começar a cuidar do seu coração.",
+        "callToAction": "Quer um plano personalizado de prevenção cardiovascular? Agende uma consulta no consultório."
+      }
+    },
+    {
+      "id": "hipertensao-guia-completo",
+      "authorSlug": "joao-santos",
+      "title": "Hipertensão: O que você precisa saber",
+      "subtitle": "Tudo sobre diagnóstico, tratamento e controle da pressão arterial",
+      "description": "Tudo sobre diagnóstico, tratamento e controle da pressão arterial elevada.",
+      "date": "2024-02-15",
+      "readTime": "15 min",
+      "coverImage": "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=1200&h=600&fit=crop",
+      "tags": ["Hipertensão", "Pressão Arterial", "Tratamento"],
+      "content": {
+        "introduction": "A hipertensão arterial afeta mais de 30% dos adultos brasileiros e é o principal fator de risco para infartos e AVCs. Conhecimento e controle adequado podem salvar vidas.",
+        "sections": [
+          {
+            "title": "O que é Hipertensão?",
+            "text": "Hipertensão é a elevação persistente da pressão arterial acima de 140/90 mmHg em adultos.\n\n**Por que é perigosa?**\nA pressão alta força o coração a trabalhar mais e danifica as artérias ao longo do tempo, aumentando o risco de:\n- Infarto do miocárdio\n- AVC (derrame)\n- Insuficiência cardíaca\n- Doença renal crônica\n- Problemas de visão",
+            "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Diagnóstico e Monitoramento",
+            "text": "**Como é diagnosticada:**\nSão necessárias medições em diferentes momentos. Uma única medida elevada não confirma hipertensão.\n\n**MAPA e MRPA:**\n- MAPA: Monitoramento ambulatorial de 24 horas\n- MRPA: Medição residencial da pressão arterial\n\nEssas ferramentas fornecem diagnóstico mais preciso que medidas isoladas no consultório.",
+            "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Tratamento: Medicamentos e Estilo de Vida",
+            "text": "**Tratamento não-medicamentoso (sempre primeiro):**\n- Redução de sódio (< 2g/dia)\n- Dieta DASH\n- Perda de peso se necessário\n- Exercícios regulares\n- Redução de álcool\n- Controle do estresse\n\n**Medicamentos:**\nQuando mudanças de estilo de vida não são suficientes, medicamentos são essenciais. Classes principais:\n- Diuréticos\n- Inibidores da ECA\n- Bloqueadores de receptor AT1\n- Bloqueadores de canais de cálcio\n- Betabloqueadores",
+            "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "A hipertensão é uma doença silenciosa mas tratável. O controle adequado reduz drasticamente o risco de complicações. Meça sua pressão regularmente e siga as orientações médicas.",
+        "callToAction": "Pressão alta? Agende uma avaliação cardiológica completa."
+      }
+    },
+    {
+      "id": "arquitetura-limpa-react",
+      "authorSlug": "ana-costa",
+      "title": "Arquitetura Limpa em React",
+      "subtitle": "Como estruturar aplicações React de forma escalável",
+      "description": "Como estruturar aplicações React de forma escalável e manutenível usando princípios SOLID.",
+      "date": "2024-01-10",
+      "readTime": "12 min",
+      "coverImage": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&h=600&fit=crop",
+      "tags": ["React", "Arquitetura", "Clean Code"],
+      "content": {
+        "introduction": "Aplicações React podem rapidamente se tornar difíceis de manter sem uma arquitetura sólida. Vamos explorar como aplicar princípios de Clean Architecture para criar apps escaláveis.",
+        "sections": [
+          {
+            "title": "O Problema com React 'Padrão'",
+            "text": "Muitos projetos React começam sem estrutura clara:\n\n**Problemas comuns:**\n- Lógica de negócio misturada com UI\n- Componentes gigantes fazendo tudo\n- Dificuldade para testar\n- Duplicação de código\n- Difícil adicionar features\n\nA solução? **Separação de responsabilidades** clara.",
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Camadas da Arquitetura",
+            "text": "**1. Domain (Núcleo)**\nEntidades, casos de uso e regras de negócio. Zero dependências externas.\n\n**2. Data**\nRepositórios, APIs, cache. Implementa interfaces definidas no domain.\n\n**3. Presentation**\nComponentes React, hooks, state management. Conhece apenas o domain.\n\n**Princípio da Dependência:**\nDependências apontam sempre para dentro (domain é o centro).",
+            "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Exemplo Prático",
+            "text": "**Estrutura de pastas:**\n```\nsrc/\n├── domain/\n│   ├── entities/\n│   ├── usecases/\n│   └── repositories/\n├── data/\n│   ├── api/\n│   ├── cache/\n│   └── repositories-impl/\n└── presentation/\n    ├── components/\n    ├── hooks/\n    └── pages/\n```\n\n**Benefícios:**\n- Fácil testar (domain não depende de nada)\n- Fácil trocar implementações\n- Código organizado e encontrável\n- Escalável para times grandes",
+            "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "Clean Architecture em React não é sobre ser dogmático, mas sobre criar código que resiste ao teste do tempo. Comece pequeno, refatore gradualmente.",
+        "callToAction": "Quer ajuda para arquitetar sua aplicação React? Vamos conversar!"
+      }
+    },
+    {
+      "id": "typescript-guia-definitivo",
+      "authorSlug": "ana-costa",
+      "title": "TypeScript: Guia Definitivo",
+      "subtitle": "Tudo para dominar TypeScript e escrever código type-safe",
+      "description": "Tudo que você precisa saber para dominar TypeScript e escrever código type-safe.",
+      "date": "2024-02-05",
+      "readTime": "20 min",
+      "coverImage": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&h=600&fit=crop",
+      "tags": ["TypeScript", "JavaScript", "Type Safety"],
+      "content": {
+        "introduction": "TypeScript transformou o desenvolvimento JavaScript. Este guia cobre desde básico até avançado, com foco em casos práticos do dia a dia.",
+        "sections": [
+          {
+            "title": "Por Que TypeScript?",
+            "text": "**Problemas que TypeScript resolve:**\n\n**1. Erros em tempo de desenvolvimento**\nCatch bugs antes de rodar código.\n\n**2. Autocomplete poderoso**\nIDEs sabem exatamente o que cada variável pode fazer.\n\n**3. Refatoração segura**\nRenomeie, mova, reestruture com confiança.\n\n**4. Documentação viva**\nTipos são documentação que nunca fica desatualizada.",
+            "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Tipos Fundamentais",
+            "text": "**Tipos primitivos:**\n```typescript\nlet nome: string = 'Ana';\nlet idade: number = 28;\nlet ativo: boolean = true;\n```\n\n**Arrays e Tuplas:**\n```typescript\nlet numeros: number[] = [1, 2, 3];\nlet coordenadas: [number, number] = [10, 20];\n```\n\n**Objects e Interfaces:**\n```typescript\ninterface Usuario {\n  id: number;\n  nome: string;\n  email?: string; // opcional\n}\n```",
+            "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop"
+          },
+          {
+            "title": "Recursos Avançados",
+            "text": "**Generics:**\nCrie componentes reutilizáveis que funcionam com qualquer tipo.\n\n**Union Types:**\n```typescript\ntype Status = 'pending' | 'success' | 'error';\n```\n\n**Type Guards:**\nRefinamento de tipos em runtime.\n\n**Utility Types:**\nPartial, Pick, Omit, Required - ferramentas poderosas built-in.",
+            "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1200&h=400&fit=crop"
+          }
+        ],
+        "conclusion": "TypeScript tem uma curva de aprendizado, mas o ROI é imenso. Comece gradualmente, adicione tipos aos poucos, e logo você não conseguirá viver sem.",
+        "callToAction": "Quer migrar seu projeto para TypeScript? Posso ajudar!"
+      }
+    }
+  ]
+}
