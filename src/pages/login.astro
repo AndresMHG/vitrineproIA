@@ -1,0 +1,140 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import OAuthButtons from '../components/OAuthButtons.vue';
+import LoginForm from '../components/LoginForm.vue';
+---
+
+<BaseLayout
+  title="Entrar - VitrinePro V8"
+  description="Entre na sua conta VitrinePro para gerenciar seu portfólio profissional"
+>
+  <Header />
+
+  <main class="auth-page">
+    <div class="auth-container">
+      <div class="auth-card">
+        <div class="auth-header">
+          <h1>Bem-vindo de volta</h1>
+          <p>Entre na sua conta para continuar</p>
+        </div>
+
+        <div class="oauth-section">
+          <OAuthButtons provider="google" client:load />
+          <OAuthButtons provider="linkedin" client:load />
+        </div>
+
+        <div class="auth-divider">
+          <span>OU</span>
+        </div>
+
+        <div class="traditional-section">
+          <LoginForm client:load />
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .auth-page {
+    min-height: calc(100vh - 200px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--spacing-lg);
+    background-color: var(--bg-secondary);
+  }
+
+  .auth-container {
+    width: 100%;
+    max-width: 450px;
+  }
+
+  .auth-card {
+    background-color: var(--bg-primary);
+    border-radius: var(--radius-xl);
+    padding: 2.5rem;
+    box-shadow: var(--shadow-xl);
+    border: 1px solid var(--border);
+  }
+
+  @media (max-width: 640px) {
+    .auth-card {
+      padding: 1.5rem;
+    }
+  }
+
+  .auth-header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .auth-header h1 {
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0 0 0.5rem 0;
+  }
+
+  .auth-header p {
+    font-size: var(--text-base);
+    color: var(--text-secondary);
+    margin: 0;
+  }
+
+  .oauth-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .auth-divider {
+    position: relative;
+    text-align: center;
+    margin: 2rem 0;
+  }
+
+  .auth-divider::before,
+  .auth-divider::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 45%;
+    height: 1px;
+    background-color: var(--border);
+  }
+
+  .auth-divider::before {
+    left: 0;
+  }
+
+  .auth-divider::after {
+    right: 0;
+  }
+
+  .auth-divider span {
+    display: inline-block;
+    padding: 0 1rem;
+    background-color: var(--bg-primary);
+    color: var(--text-light);
+    font-size: var(--text-sm);
+    font-weight: 500;
+  }
+
+  .traditional-section {
+    /* Espaço para o formulário */
+  }
+</style>
+
+<script>
+  // Verificar se já está logueado ao carregar a página
+  import { isAuthenticated } from '../utils/auth';
+
+  if (typeof window !== 'undefined' && isAuthenticated()) {
+    window.location.href = '/dashboard';
+  }
+</script>

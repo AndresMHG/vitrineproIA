@@ -1,4 +1,5 @@
 ---
+import HeaderActions from './HeaderActions.vue';
 ---
 
 <header class="header">
@@ -22,8 +23,7 @@
         </ul>
 
         <div class="nav-actions">
-          <a href="/login" class="btn-login">Entrar</a>
-          <a href="/signup" class="btn btn-primary">Cadastre-se Grátis</a>
+          <HeaderActions client:load />
         </div>
       </div>
     </nav>

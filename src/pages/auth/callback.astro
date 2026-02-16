@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Autenticando... - VitrinePro V8"
+  description="Completando seu login"
+>
+  <main class="callback-page">
+    <div class="callback-container">
+      <div class="loading-spinner"></div>
+      <h1>Completando seu login...</h1>
+      <p>Aguarde um momento enquanto processamos sua autenticação.</p>
+    </div>
+  </main>
+</BaseLayout>
+
+<style>
+  .callback-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-secondary);
+    padding: var(--spacing-lg);
+  }
+
+  .callback-container {
+    text-align: center;
+    max-width: 500px;
+  }
+
+  .loading-spinner {
+    width: 60px;
+    height: 60px;
+    border: 4px solid var(--border);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 2rem;
+  }
+
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  h1 {
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 0 0 1rem 0;
+  }
+
+  p {
+    font-size: var(--text-base);
+    color: var(--text-secondary);
+    margin: 0;
+  }
+</style>
+
+<script>
+  import { saveToken } from '../../utils/auth';
+
+  // Processar callback OAuth
+  if (typeof window !== 'undefined') {
+    // Extrair parâmetros da URL
+    const params = new URLSearchParams(window.location.search);
+    const token = params.get('token');
+    const error = params.get('error');
+
+    // Se houver erro, mostrar e redirecionar para login
+    if (error) {
+      alert(`Erro na autenticação: ${error}`);
+      window.location.href = '/login';
+    }
+    // Se houver token, salvar e redirecionar para dashboard
+    else if (token) {
+      saveToken(token);
+
+      // Verificar se há URL de retorno
+      const redirectUrl = params.get('redirect');
+      if (redirectUrl) {
+        window.location.href = redirectUrl;
+      } else {
+        window.location.href = '/dashboard';
+      }
+    }
+    // Se não houver nem token nem erro, algo deu errado
+    else {
+      alert('Erro: Nenhum token recebido');
+      window.location.href = '/login';
+    }
+  }
+</script>
