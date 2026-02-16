@@ -10,7 +10,6 @@ Plataforma de portfólio profissional para advogados, médicos, programadores e 
 - **CSS Modules** - Estilização
 
 ## Desenvolvimento
-
 ### Configuração Inicial
 
 1. **Clone o repositório**
